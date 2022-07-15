@@ -430,9 +430,9 @@ Keep updated.
 
 ### 2022.05
 
-- (arXiv 2022.05) HeatER: An Efficient and Unified Network for **Human Reconstruction** via Heatmap-based TransformER, [[Paper]](https://arxiv.org/pdf/2205.15448.pdf)
+- (arXiv 2022.05) HeatER: An Efficient and Unified Network for **Human Reconstruction** via Heatmap-based TransformER,(computation efficiency, parameter efficiency) [[Paper]](https://arxiv.org/pdf/2205.15448.pdf)
 
-- (arXiv 2022.05) Robotic **grasp detection** based on Transformer, [[Paper]](https://arxiv.org/ftp/arxiv/papers/2205/2205.15112.pdf)
+- (arXiv 2022.05) Robotic **grasp detection** based on Transformer,(Not efficiency) [[Paper]](https://arxiv.org/ftp/arxiv/papers/2205/2205.15112.pdf)
 
 - (arXiv 2022.05) Multimodal **Masked Autoencoders** Learn Transferable Representations, [[Paper]](https://arxiv.org/pdf/2205.14204.pdf)
 

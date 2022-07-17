@@ -436,7 +436,7 @@ Keep updated.
 
 - (arXiv 2022.05) Multimodal **Masked Autoencoders** Learn Transferable Representations(不是efficiency), [[Paper]](https://arxiv.org/pdf/2205.14204.pdf)
 
-- (arXiv 2022.05) Multimodal **Fake News Detection** via **CLIP**-Guided Learning, [[Paper]](https://arxiv.org/pdf/2205.14304.pdf)
+- (arXiv 2022.05) Multimodal **Fake News Detection** via **CLIP**-Guided Learning（efficient transformer in multimodal）, [[Paper]](https://arxiv.org/pdf/2205.14304.pdf)
 
 - (arXiv 2022.05) WT-MVSNet: Window-based Transformers for **Multi-view Stereo**, [[Paper]](https://arxiv.org/pdf/2205.14319.pdf)
 
